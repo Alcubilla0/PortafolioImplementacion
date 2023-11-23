@@ -1,4 +1,4 @@
-# Portafolio Implementacion
+# Portafolio Implementación
 Inteligencia artificial avanzada para la ciencia de datos II - Portafolio de implementación individual
 
 En la carpeta de [Estadística](Estadistica) se encuentra el link al drive con las actividades.
