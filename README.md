@@ -3,4 +3,4 @@ Inteligencia artificial avanzada para la ciencia de datos II - Portafolio de imp
 
 En la carpeta de [Estadística](Estadística) se encuentra el link al drive con las actividades.
 
-En la carpeta de [Clod](Cloud) se encuentran las actividades de Cloud Migration y Diseño de Arquitectura en la Nube
+En la carpeta de [Cloud](Cloud) se encuentran las actividades de Cloud Migration y Diseño de Arquitectura en la Nube
