@@ -1,7 +1,7 @@
 # Portafolio Implementación
-Inteligencia artificial avanzada para la ciencia de datos II - Portafolio de implementación individual
+##Inteligencia artificial avanzada para la ciencia de datos II - Portafolio de implementación individual
 
-María Fernanda Torres Alcubilla A01285041
+##María Fernanda Torres Alcubilla A01285041
 
 En la carpeta de [Estadística](Estadistica) se encuentra el link al drive con las actividades.
 
